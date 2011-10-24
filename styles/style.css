@@ -1,0 +1,82 @@
+#title
+{
+	color:#A67900;
+	font-size:66px;
+	font-weight:bold;
+	margin-left:29%;
+	margin-top:0%;
+}
+
+#title span {
+	color:#A67900;
+	font-size:33px;
+	margin-left:-17%;
+
+}
+
+
+#user_input
+{
+	color:#A67900;
+	font-size:17px;
+	font-weight:bold;
+	margin-left:36%;
+	margin-top:15%;
+}
+
+#user_input_text
+{
+	color:#A67900;
+	font-size:17px;
+	font-weight:bold;
+	margin-left:12%;
+	margin-top:15%;
+}
+
+body {
+	background-color:#FFF073;
+	}
+
+.myButton {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dbab1b), color-stop(1, #e0b957) );
+	background:-moz-linear-gradient( center top, #dbab1b 5%, #e0b957 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dbab1b', endColorstr='#e0b957');
+	background-color:#dbab1b;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #bfb976;
+	display:inline-block;
+	color:#7a602d;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #ffffff;
+}.myButton:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #e0b957), color-stop(1, #dbab1b) );
+	background:-moz-linear-gradient( center top, #e0b957 5%, #dbab1b 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#e0b957', endColorstr='#dbab1b');
+	background-color:#e0b957;
+}.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+#buttons {
+	margin-left:41%;
+	margin-top:5%;
+	}
+
+#radio_input {
+	
+	color:#A67900;
+	font-size:17px;
+	font-weight:bold;
+	margin-top:14%;
+	margin-left:41%;
+	}
