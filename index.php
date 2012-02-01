@@ -1,4 +1,5 @@
 <?php
+#testing  this shit
 require_once('layout/header.php');
 require_once('lib/functions.php');
 
